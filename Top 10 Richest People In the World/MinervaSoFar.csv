@@ -1,0 +1,973 @@
+Dia,Tipo,Cantidad,Caja,Donde,Ciudad,Razon
+8/24/2017,Transporte,17,Cartera,Airport,San Francisco,
+8/24/2017,Comida,5.55,Cartera,Starbucks,San Francisco,
+8/24/2017,Comida,6,Cartera,Restaurant,San Francisco,
+8/25/2017,Comida,5,Cartera,Walgreens,San Francisco,
+8/25/2017,Comida,20,Cartera,Trader Joes,San Francisco,
+8/25/2017,Comida,5,Cartera,Target,San Francisco,
+8/25/2017,Nececidades,24,Cartera,Ross,San Francisco,
+8/25/2017,Transporte,23,Cartera,San Francisco Public Transport,San Francisco,
+8/26/2017,Comida,3.5,Cartera,Target,San Francisco,
+8/26/2017,Comida,10.5,Cartera,Super Dupper Burger,San Francisco,
+8/26/2017,Nececidades,3.1,Cartera,Target,San Francisco,
+8/26/2017,Comida,1.5,Cartera,Tienda Mexicana,San Francisco,
+8/26/2017,Transporte,3.5,Cartera,Uber,San Francisco,
+8/26/2017,Comida,1.5,Cartera,Walgreens,San Francisco,
+8/27/2017,Transporte,3,Cartera,Uber,San Francisco,
+8/28/2017,Transporte,2.5,Clipper Card,San Francisco Public Transport,San Francisco,
+8/28/2017,Comida,31.11,Cartera,Target,San Francisco,
+8/29/2017,Comida,6,Cartera,Burger King,San Francisco,
+8/30/2017,Reserva,100,Reserva,Me,San Francisco,
+8/31/2017,Nececidades,3,Tarjeta,Laundry,San Francisco,
+8/31/2017,Comida,5.5,Cartera,Gas Station,Oakland,
+8/31/2017,Nececidades,50,Cartera,Bike Guy,Emeryville,
+8/31/2017,Nececidades,45,Cartera,King Kong Locks,Oakland,
+8/31/2017,Comida,7.5,Cartera,Target,San Francisco,
+9/2/2017,Prestamo,-,Reserva,Abisheck,San Francisco,
+9/2/2017,Compras,22,Reserva,Target,San Francisco,
+9/3/2017,Comida,3.5,Cartera,Tienda Mexicana,San Francisco,
+9/4/2017,Comida,5.4,Cartera,Tienda China,San Francisco,
+9/4/2017,Comida,20,Cartera,Tienda China,San Francisco,
+9/4/2017,Transporte,11,Cartera,Lyft,San Francisco,
+9/6/2017,Comida,3.75,Cartera,Tienda China,San Francisco,
+9/6/2017,Comida,23,Cartera,Target,San Francisco,
+9/12/2017,Comida,5,Cartera,Pizza Hut,San Francisco,
+9/13/2017,Transporte,10,Cartera,Uber,Redwood City,
+9/13/2017,Transporte,8,Clipper Card,Caltrain,San Francisco,
+9/14/2017,Comida,4,Cartera,Joes Donuts,San Francisco,
+9/15/2017,Comida,2,Cartera,Powerade,San Francisco,
+9/15/2017,Innecasario,7,Cartera,Liquor Store,San Francisco,
+9/16/2017,Transporte,5,Cartera,San Francisco Public Transport,San Francisco,
+9/16/2017,Comida,9,Cartera,Proteina,San Francisco,
+9/17/2017,Comida,10.5,Cartera,Pearls Burgers,San Francisco,
+9/17/2017,Comida,3,Cartera,Burger King,San Francisco,
+9/17/2017,Comida,7,Cartera,Super Dupper Burger,San Francisco,
+9/17/2017,Comida,2.5,Cartera,Starbucks,San Francisco,
+9/18/2017,Comida,18,Cartera,Safeway,San Francisco,
+9/18/2017,Innecasario,25,Cartera,Minerva,San Francisco,
+9/18/2017,Transporte,15,Clipper Card,San Francisco Public Transport,San Francisco,
+9/20/2017,Prestamo,,Cartera,San Francisco Public Transport,San Francisco,
+9/20/2017,Comida,2,Cartera,Bob's Donuts,San Francisco,
+9/21/2017,Transporte,10,Clipper Card,San Francisco Public Transport,San Francisco,
+9/21/2017,Comida,5.9,Cartera,Trader Joes,San Francisco,
+9/22/2017,Comida,7,Cartera,7-Eleven,San Francisco,
+9/26/2017,Contabilidad,52,Cartera,Contabilidad,San Francisco,
+9/27/2017,Comida,2.5,Cartera,Bob's Donuts,San Francisco,
+9/27/2017,Transporte,9,Tarjeta,Uber,San Francisco,
+9/1/2017,Transporte,28.24257246,Cartera,Airport,San Francisco,
+9/1/2017,Comida,29.22611159,Cartera,Starbucks,San Francisco,
+9/2/2017,Comida,30.20965072,Cartera,Restaurant,San Francisco,
+9/2/2017,Comida,31.19318986,Cartera,Walgreens,San Francisco,
+9/2/2017,Comida,32.17672899,Cartera,Trader Joes,San Francisco,
+9/3/2017,Comida,33.16026812,Cartera,Target,San Francisco,
+9/3/2017,Nececidades,34.14380725,Cartera,Ross,San Francisco,
+9/4/2017,Transporte,35.12734638,Cartera,San Francisco Public Transport,San Francisco,
+9/4/2017,Comida,36.11088551,Cartera,Target,San Francisco,
+9/4/2017,Comida,37.09442464,Cartera,Super Dupper Burger,San Francisco,
+9/5/2017,Nececidades,38.07796377,Cartera,Target,San Francisco,
+9/5/2017,Comida,39.0615029,Cartera,Tienda Mexicana,San Francisco,
+9/5/2017,Transporte,40.04504203,Cartera,Uber,San Francisco,
+9/6/2017,Comida,41.02858116,Cartera,Walgreens,San Francisco,
+9/6/2017,Transporte,42.01212029,Cartera,Uber,San Francisco,
+9/6/2017,Transporte,42.99565942,Clipper Card,San Francisco Public Transport,San Francisco,
+9/7/2017,Comida,43.97919855,Cartera,Target,San Francisco,
+9/7/2017,Comida,44.96273768,Cartera,Burger King,San Francisco,
+9/8/2017,Reserva,45.94627681,Reserva,Me,San Francisco,
+9/8/2017,Nececidades,46.92981594,Tarjeta,Laundry,San Francisco,
+9/8/2017,Comida,47.91335507,Cartera,Gas Station,Oakland,
+9/9/2017,Nececidades,48.8968942,Cartera,Bike Guy,Emeryville,
+9/9/2017,Nececidades,49.88043333,Cartera,King Kong Locks,Oakland,
+9/9/2017,Comida,50.86397246,Cartera,Target,San Francisco,
+9/10/2017,Prestamo,-,Reserva,Abisheck,San Francisco,
+9/10/2017,Compras,10.23376623,Reserva,Target,San Francisco,
+9/3/2017,Comida,10.25547713,Cartera,Tienda Mexicana,San Francisco,
+9/4/2017,Comida,10.27718803,Cartera,Tienda China,San Francisco,
+9/4/2017,Comida,10.29889893,Cartera,Tienda China,San Francisco,
+9/4/2017,Transporte,10.32060982,Cartera,Lyft,San Francisco,
+9/6/2017,Comida,10.34232072,Cartera,Tienda China,San Francisco,
+9/6/2017,Comida,10.36403162,Cartera,Target,San Francisco,
+9/12/2017,Comida,10.38574252,Cartera,Pizza Hut,San Francisco,
+9/13/2017,Transporte,10.40745342,Cartera,Uber,Redwood City,
+9/13/2017,Transporte,10.42916431,Clipper Card,Caltrain,San Francisco,
+9/14/2017,Comida,10.45087521,Cartera,Joes Donuts,San Francisco,
+9/15/2017,Comida,10.47258611,Cartera,Powerade,San Francisco,
+9/15/2017,Innecasario,10.49429701,Cartera,Liquor Store,San Francisco,
+11/10/2017,Extra,9.77,Cartera,Walgreens,San Francisco,
+11/12/2017,Extra,63,Cartera,Viaje,San Francisco,
+11/16/2017,Comida,24,Cartera,Trader Joes,San Francisco,
+11/19/2017,Comida,6.7,Cartera,Quickly,San Francisco,
+11/19/2017,Comida,6,Cartera,7-Eleven,San Francisco,
+11/19/2017,Extra,26,Cartera,Martina,San Francisco,
+11/20/2017,Nececidades,51,Cartera,Telefono,San Francisco,
+11/21/2017,Comida,11.38,Cartera,Restaurante,Lake Tahoe,
+11/21/2017,Comida,13.28,Cartera,Restaurante,Lake Tahoe,
+11/24/2017,Extra,17.97,Cartera,H&M,San Francisco,
+11/24/2017,Comida,3.99,Cartera,Burger King,San Francisco,
+11/25/2017,Comida,16.94,Cartera,Trader Joes,San Francisco,
+11/25/2017,Comida,9,Cartera,Flying Falfel,San Francisco,
+11/26/2017,Nececidades,5.54,Cartera,Safeway,San Francisco,
+11/26/2017,Nececidades,4.46,Cartera,Safeway,San Francisco,
+11/29/2017,Comida,29,Cartera,Restaurante de Alitas,San Francisco,
+1/11/2018,Comida,20.85,Caja 1,Target,San Francisco,Especies
+1/11/2018,Necessidades,15,Caja 1,Target,San Francisco,Detergente y Librito
+1/11/2018,Extra,12,Caja 1,Target,San Francisco,Aceite
+1/12/2018,Transporte,20,Caja 1,Metro,San Francisco,Pagar Metro
+1/12/2018,Comida,14,Caja 1,Restaurante,San Francisco,Comida Ecuatoriana
+1/14/2018,Comida,6,Caja 1,Carl's Junior,San Francisco,Hamburguesa
+1/14/2018,Transporte,8,Caja 1,Uber,San Francisco,Pagar Kira
+1/15/2018,Necessidades,58,Caja 1,Sprint,San Francisco,Pagar Yana
+1/17/2018,Comida,26.43,Caja 1,Trader Joes,San Francisco,Comprar Comida
+1/19/2018,Extra,15,Caja 1,Laguna Coffee,San Francisco,Shisha
+1/19/2018,Transporte,7.1,Caja 1,Uber,San Francisco,Pagar IO
+1/19/2018,Comida,22,Caja 1,Restaurante,San Francisco,Comida Italiana
+1/19/2018,Comida,3,Caja 1,7-Eleven,San Francisco,Pizza
+1/23/2018,Comida,15,Caja 1,Trader Joes,San Francisco,Comprar Comida
+1/26/2018,Comida,9,Caja 1,All Star,San Francisco,Hamburguesa
+27-Jan,Comida,15,Caja 1,Restaurante,San Francisco,Comida Mexicana
+1/27/2018,Comida,7,Caja 1,Hackathon,San Francisco,Comida
+2/1/2018,Comida,7,Caja 1,Japantown,San Francisco,Bola de arroz
+2/1/2018,Comida,35,Caja 1,Trader Joes,San Francisco,Comida
+2/1/2018,Extra,7,Caja 1,Japantown,San Francisco,Lapiz y Borrador
+2/1/2018,Comida,12,Caja 1,Mac'd,San Francisco,Mac y Cheese
+2/1/2018,Comida,11,Caja 1,Resturante Hindu,San Francisco,Comida de la India
+2/2/2018,Comida,12,Caja 1,Trader Joes,San Francisco,Comida
+2/2/2018,Comida,3,Caja 1,CVS,San Francisco,Jugo
+2/3/2018,Extra,20,Caja 1,San Francisco Ferry,San Francisco,Ticket para Ferry
+2/4/2018,Transporte,8,Caja 1,San Francisco Public Transpot,San Francisco,Bart
+2/4/2018,Comida,45,Caja 1,Trader Joes,Los Angeles,Comida para los 3 dias
+2/5/2018,Comida,4,Caja 1,Hollywood Store,Los Angeles,Jugo
+2/5/2018,Comida,28,Caja 1,Hard Rock Cafe,Los Angeles,Hamburguesa
+2/6/2018,Comida,16,Caja 1,Universal Studios,Los Angeles,Hamburguesa
+2/7/2018,Transporte,10,Caja 1,Los Angeles Public Transport,Los Angeles,Metro
+2/8/2018,Transporte,9,Caja 1,San Francisco Public Transpot,San Francisco,Bart
+2/8/2018,Comida,11,Caja 1,Burger King,San Francisco,Hamburguesa
+2/9/2018,Comida,52,Dinero Extra,Trader Joes,San Francisco,Comida para semana
+2/10/2018,Transporte,25,Dinero Extra,Zipcar,San Francisco,Pagar a Abi
+2/12/2018,Comida,20,Dinero Extra,Trader Joes,San Francisco,Comida
+2/13/2018,Extra,13,Dinero Extra,Sfero,San Francisco,Regalo para Kira
+2/13/2018,Extra,19,Dinero Extra,Walgreens,San Francisco,Regalo para Kira
+2/14/2018,Comida,22,Dinero Extra,Tienda Italiana,San Francisco,Sandwich
+2/20/2018,Necessidades,20,Dinero Extra,Sprint,San Francisco,Pagar a Yana
+2/20/2018,Comida,26,Dinero Extra,Safeway,San Francisco,Comida para semana
+2/22/2018,Comida,15,Dinero Extra,Gyros Shop,San Francisco,Gyros
+2/23/2018,Transporte,5,Dinero Extra,San Francisco Public Transpot,San Francisco,Bart Paid on the 18th
+2/23/2018,Comida,10,Dinero Extra,Walgreens,San Francisco,Sushi
+2/23/2018,Extra,30,Dinero Extra,AMC,San Francisco,Black Panther
+2/23/2018,Extra,24,Dinero Extra,Desconocido,San Francisco,Desconocido
+2/24/2018,Comida,5.4,Dinero Extra,Trader Joes,San Francisco,Comida
+2/24/2018,Comida,61.1,Caja 1,Trader Joes,San Francisco,Comida
+2/26/2018,Comida,12,Caja 1,Trader Joes,San Francisco,Comida
+3/2/2018,Comida,10,Caja 1,Resturnte Salvadoreño,San Francisco,Comida
+3/2/2018,Transporte,6,Caja 1,Uber,San Francisco,Viajes
+3/8/2018,Comida,70,Caja 1,Trader Joes,San Francisco,Comida
+3/8/2018,Comida,13,Caja 1,Burger King,San Francisco,Hamburguesa
+3/15/2018,Comida,19,Caja 1,Pizza,San Francisco,Pagar a Kira
+3/15/2018,Extra,20,Caja 1,Night Club,San Francisco,Pay Entrance
+3/15/2018,Comida,17.7,Caja 1,Walgreens,San Francisco,Stuff for Cinema
+3/18/2018,Comida,13,Caja 1,Burger King,San Francisco,Hamburguesa
+3/18/2018,Transporte,20,Caja 1,Boston Metro,Boston,Transportation for whole day
+3/18/2018,Comida,12,Caja 1,Sandwich Store,Boston,Sandwich
+3/18/2018,Necessidades,40,Caja 1,Sprint,San Francisco,Pagar Yana
+3/18/2018,Extra,75,Caja 1,Desconocido,San Francisco,Desconocido
+3/21/2018,Comida,10,Caja 1,Trader Joes,San Francisco,Extra Food
+3/21/2018,Necessidades,8,Caja 1,CVS,San Francisco,Bathroom Stuff
+3/21/2018,Comida,60,Caja 1,Trader Joes,San Francisco,Comida para dos semanas
+3/25/2018,Comida,24,Caja 1,Trader Joes,San Francisco,Comida Extra
+4/1/2018,Comida,41,Caja 1,Restaurante Thailandes,San Francisco,Comida de Aniversario
+4/1/2018,Comida,23,Caja 1,Restaruante Frances,San Francisco,Hamburguesa
+4/1/2018,Extra,25,Caja 1,Desconocido,San Francisco,Desconocido
+4/9/2018,Comida,3,Caja 1,The Market,San Francisco,Jugo
+4/9/2018,Comida,67,Caja 3,Trader Joes,San Francisco,Comida
+4/9/2018,Comida,5,Caja 3,Restaurante Mexicano,Guadalajara,Comida
+4/9/2018,Comida,12,Caja 3,Restaurante Griego,Salt Lake City,Comida
+4/16/2018,Extra,45,Caja 3,GameStop,San Francisco,Juegos para Amigos
+4/16/2018,Comida,12,Caja 1,Restaurante italian,San Francisco,Pizza
+4/16/2018,Comida,45,Caja 3,Trader Joes,San Francisco,Comida
+4/16/2018,Comida,28,Caja 3,Trader Joes,San Francisco,Comida
+4/16/2018,Comida,10,Caja 3,The Bird,San Francisco,Comida con Kira
+4/21/2018,Comida,12,Caja 3,Burger King,San Francisco,Hamburguesa
+4/21/2018,Comida,31,Caja 3,Plentea,San Francisco,Te Boba
+4/21/2018,Comida,12,Caja 3,Super Duper Burgers,San Francisco,Hamburguesa
+4/21/2018,Transporte,5,Caja 3,San Francisco Public Transpot,San Francisco,Pase
+4/21/2018,Extra,369,Caja 3,Nintendo,San Francisco,Nintendo Switch y Juego
+4/26/2018,Extra,22,Caja 3,Office Max,San Francisco,Papel para t-shirts
+4/26/2018,Comida,13,Caja 3,Super Duper Burgers,San Francisco,Hamburguesa
+4/26/2018,Comida,3,Caja 3,Market,San Francisco,Jugo
+4/26/2018,Extra,20,Caja 3,Anime Store,San Francisco,Regalos para Leslee y Gerardo
+4/26/2018,Comida,13,Caja 3,Chocolate Chair,San Francisco,Te Boba
+1/6/2018,Comida,18.69158879,Efectivo,Ramen Restaurant,Tokyo,Ramen
+1/6/2018,Extra,8.018691589,Efectivo,Family Mart,Tokyo,"Jugo, Tualla, Libro"
+3/6/2018,Transporte,6.355140187,Efectivo,Tokyo Transportation,Tokyo,Metro
+3/6/2018,Comida,11.21495327,Efectivo,Thai Restaurant,Tokyo,Comida Thailandesa
+3/6/2018,Comida,5.420560748,Efectivo,Family Mart,Tokyo,Onigiri y Jugo
+3/6/2018,Comida,34.27102804,Efectivo,Cow Market,Tokyo,Comida para la semana
+3/6/2018,Comida,20.13084112,Efectivo,National Azabu,Tokyo,Comida Mexicana
+3/6/2018,Extra,5.046728972,Efectivo,100 Yen Store,Tokyo,Cosas para organizar
+3/6/2018,Comida,15.85981308,Efectivo,Don Quixote,Tokyo,Shampoo
+3/6/2018,Recuenta,0.53271028,Efectivo,-,Tokyo,-
+3/6/2018,Extra,9.345794393,Efectivo,Mezzo,Tokyo,Sake
+3/6/2018,Comida,12.14953271,Efectivo,Don Quixote,Tokyo,Food for the week
+4/6/2018,Extra,1.869158879,Efectivo,Garage Store,Tokyo,Cooking Supplies
+4/6/2018,Comida,5.607476636,Efectivo,McDonalds,Tokyo,Cheese Burger
+4/6/2018,Comida,0.981308411,Efectivo,Don Quixote,Tokyo,Milk Tea
+4/6/2018,Extra,24.22429907,Efectivo,Wing Quarter,Tokyo,Light
+4/6/2018,Extra,0,Efectivo,Lawson,Tokyo,Bandage for Abi
+7/6/2018,Comida,29.02803738,Efectivo,Cow Market,Tokyo,Comida Para la semana
+7/6/2018,Extra,0,Efectivo,Juan,Tokyo,Preste a Juan para que coma
+7/6/2018,Comida,2.056074766,Efectivo,Lawson,Tokyo,"Jugo, Tualla, Libro"
+8/6/2018,Extra,7.476635514,Efectivo,Lawson,Tokyo,Tabletas para lavanderia
+8/6/2018,Comida,2.018691589,Efectivo,Lawson,Tokyo,Jugo y Onigiri
+8/6/2018,Comida,2.953271028,Efectivo,Lawson,Tokyo,Jugo
+9/6/2018,Comida,32.07476636,Efectivo,Cow Market,Tokyo,Food for the week
+11/6/2018,Comida,12.64485981,Efectivo,Cow Market,Tokyo,Rice
+11/6/2018,Extra,12.14953271,Efectivo,Lawson,Tokyo,Paraaguas
+12/6/2018,Comida,9.158878505,Efectivo,100 Yen Store,Tokyo,"Plato, Bolsa para ropa, pluma etc"
+12/6/2018,Comida,1.869158879,Efectivo,Lawson,Tokyo,Onigiri y Jugo
+15/6/2018,Comida,19.62616822,Efectivo,Cow Market,Tokyo,Comida
+16/6/2018,Comida,4.672897196,Efectivo,Starbucks,Tokyo,Frappuchino
+16/6/2018,Comida,16.82242991,Efectivo,English Bar,Tokyo,Alitas y dos cervezas
+17/6/2018,Comida,19.62616822,Efectivo,Cow Market,Tokyo,Comida para la semana
+17/6/2018,Comida,26.1682243,Efectivo,Sports Bar,Tokyo,Juego Mexico vs Alemania
+18/6/2018,Comida,5.757009346,Efectivo,Lawson,Tokyo,Onigiri con Carne
+18/6/2018,Transporte,3.177570093,Efectivo,Tokyo Transportation,Tokyo,Metro
+18/6/2018,Comida,8.411214953,Efectivo,Burger Place,Tokyo,Hamburguesa
+21/6/2018,Transporte,3,Efectivo,Tokyo Transportation,Tokyo,Metro
+21/6/2018,Comida,11,Efectivo,Cow Market,Tokyo,Food for the week
+21/6/2018,Comida,8,Efectivo,Cow Market,Tokyo,Rice
+22/6/2018,Comida,21,Efectivo,Cow Market,Tokyo,Food for the week
+25/6/2018,Comida,11,Efectivo,Dennys,Tokyo,Noddles
+25/6/2018,Extra,30,Efectivo,Don Quixote,Tokyo,Ropa para dormir y comida
+25/6/2018,Comida,9,Efectivo,Japanese Restaurant,Tokyo,Noodles
+25/6/2018,Extra,14,Efectivo,Japanese Club,Tokyo,Entrance Fee
+25/6/2018,Comida,5,Efectivo,Vending Machine,Tokyo,Drink and Cookies
+25/6/2018,Extra,3,Efectivo,Massage Chair,Tokyo,Massage
+25/6/2018,Extra,5,Efectivo,Onzen,Tokyo,Dia de Relax
+25/6/2018,Extra,5,Efectivo,Rebecca,Tokyo,Para Comida
+25/6/2018,Extra,55,Efectivo,Abi,Tokyo,"Gasolina, Airbnb"
+29/6/2018,Comida,49,Efectivo,Cow Market,Tokyo,Food for the week
+29/6/2018,Comida,2,Efectivo,Lawson,Tokyo,Onigiri y Salsa
+29/6/2018,Comida,4,Efectivo,Cow Market,Tokyo,Pan
+7/7/2018,Comida,28,Efectivo,Restaurante,Hakuba,Tacos
+7/7/2018,Comida,13,Efectivo,SuperMercado,Hakuba,Comida para la semana
+7/7/2018,Extra,19,Efectivo,Bar,Tokyo,Cerveza Mexico vs Brazil
+7/7/2018,Extra,93,Efectivo,Abi,Hakuba,Viaje a Hakuba
+7/7/2018,Comida,45,Efectivo,Cow Market,Tokyo,Comida para la semana
+7/7/2018,Comida,12,Efectivo,Starbucks,Tokyo,Comida y Jugo
+13/7/2018,Comida,8,Efectivo,Ramen Restaurant,Tokyo,Comida con Ben
+13/7/2018,Comida,9,Efectivo,7-Eleven,Tokyo,Snacks para los juegos
+13/7/2018,Comida,8,Efectivo,McDonalds,Tokyo,Hamburguesa
+14/7/2018,Comida,3.738317757,Efectivo,Meat Shop,Tokyo,Wiered Meat
+14/7/2018,Comida,5.046728972,Efectivo,Bread Shop,Tokyo,Wiered Bread
+14/7/2018,Comida,40.6635514,Efectivo,Cow Market,Tokyo,Comida para la semana
+14/7/2018,Comida,3.738317757,Efectivo,Cow Market,Tokyo,Drink for the week
+17/7/2018,Comida,4.672897196,Efectivo,Lawson,Tokyo,Work Food
+17/7/2018,Transporte,22.42990654,Efectivo,Ben,Tokyo,"Money for Transport, Food and Drinks"
+22/7/2018,Comida,4.205607477,Efectivo,Comida en Fuji,Fuji,Cena
+22/7/2018,Comida,5.046728972,Efectivo,Starbucks,Tokyo,Frappuchino
+22/7/2018,Extra,93,Efectivo,Abi,Fuji,Viaje y Montaña Rusas
+22/7/2018,Extra,55.60747664,Efectivo,Julia,Fuji,Comida y Montaña Rusa
+25/07/2018,Extra,66.26168224,Efectivo,Abi,Hong Kong,Dinero para Macau y comida
+25/07/2018,Comida,3.738317757,Efectivo,Abi,Tokyo,Arroz
+25/07/2018,Extra,59.62616822,Efectivo,Abi,Hong Kong,Ropa
+25/07/2018,Comida,19.62616822,Efectivo,Comida China,Macau,Comida en the Venitian
+25/07/2018,Extra,11.51401869,Efectivo,The Venetian,Macau,Campanita
+25/07/2018,Extra,47.10280374,Efectivo,Ferry,Macau,Ticket a Macau
+25/07/2018,Extra,93.1588785,Efectivo,Tokyo Airport,Tokyo,Camisa de Japon
+25/07/2018,Transporte,7.981308411,Efectivo,Taxi,Hong Kong,Taxi de la Ciudad a hotel
+28/07/2018,Comida,3.925233645,Efectivo,Caffe,Tokyo,Desayuno en un caffee
+28/07/2018,Transporte,3.177570093,Efectivo,Tokyo Metropolitan Transport,Tokyo,Metro
+28/07/2018,Transporte,3.831775701,Efectivo,Tokyo Metropolitan Transport,Tokyo,Metro de Aeropuerto
+28/07/2018,Transporte,1.962616822,Efectivo,Tokyo Metropolitan Transport,Tokyo,Autobus a mi casa
+28/07/2018,Transporte,14.54205607,Efectivo,Hong Kong Public Transport,Hong Kong,Autobus a Aeropuerto
+28/07/2018,Comida,8.598130841,Efectivo,Ramen Restaurant,Tokyo,Ramen
+29/07/2018,Comida,5.140186916,Efectivo,Starbucks,Tokyo,Coffe Drink
+29/07/2018,Comida,9.345794393,Efectivo,Life Supermarket,Tokyo,Food to cook for dinner with Bella
+29/07/2018,Comida,35.69158879,Efectivo,Cow Market,Tokyo,Food for the week
+30/07/2018,Extra,35.3271028,Efectivo,PC World,Tokyo,Mouse for work
+31/07/2018,Comida,3.738317757,Efectivo,Lawson,Tokyo,Food and Drink
+2/8/2018,Comida,9.38317757,Efectivo,Thai Restaurant,Tokyo,Food With Ben
+2/8/2018,Comida,2.14953271,Efectivo,Wendys,Tokyo,Nieve
+2/8/2018,Comida,5.607476636,Efectivo,Turkish Food,Tokyo,Abi
+3/8/2018,Comida,4.672897196,Efectivo,Lawson,Tokyo,Comida para viernes
+9/8/2018,Comida,10.28037383,Efectivo,McDonalds,Tokyo,Comida en el trabajo
+9/8/2018,Comida,3.037383178,Efectivo,Lawson,Tokyo,Jugo y Onigiri
+9/8/2018,Comida,5.607476636,Efectivo,Starbucks,Tokyo,Frappuchino
+9/8/2018,Comida,4.672897196,Efectivo,Sukiya,Tokyo,Comida para Compartir
+9/8/2018,Comida,14.01869159,Efectivo,Cow Market,Tokyo,Jugos para Semana
+9/8/2018,Comida,1.028037383,Efectivo,Lawson,Tokyo,Jugo y Onigiri
+9/8/2018,Comida,1.401869159,Efectivo,Lawson,Tokyo,Jugo
+9/8/2018,Comida,14.01869159,Efectivo,Cow Market,Tokyo,Comida para semana
+9/8/2018,Desconocido,7.289719626,Efectivo,Desconocido,Tokyo,Desconocido
+13/8/2018,Comida,9.345794393,Efectivo,Pizza Place,Tokyo,Pizza
+13/8/2018,Comida,6.542056075,Efectivo,Fruit for lunch,Tokyo,Lawson
+13/8/2018,Comida,10.28037383,Efectivo,Ramen Restaurant,Tokyo,Dinner with Ben
+13/8/2018,Comida,2.056074766,Efectivo,Lawson,Tokyo,Jugo y Onigiri
+13/8/2018,Comida,1.869158879,Efectivo,McDonalds,Tokyo,Milk Shake
+13/8/2018,Comida,5.607476636,Efectivo,7-Eleven,Tokyo,Sukiya
+19/8/2018,Comida,1.121495327,Efectivo,Lawson,Tokyo,Jugo
+19/8/2018,Comida,13.08411215,Efectivo,Ramen Restaurant,Tokyo,Ramen
+19/8/2018,Extra,41.12149533,Efectivo,Muji,Tokyo,Ropa y Calcetines
+19/8/2018,Comida,13.55140187,Efectivo,Sushi,Tokyo,Sushi
+19/8/2018,Comida,8.411214953,Efectivo,Comida para Bella y Kira,Tokyo,Comida
+19/8/2018,Utilidades,227.2056075,Efectivo,Airbnb,Seoul,Utilidades
+19/8/2018,Utilidades,93.45794393,Efectivo,Abi,Tokyo,"Transporte, Internet y Comida"
+27/8/2018,Extra,4.635514019,Efectivo,Don Quixote,Tokyo,Lapiz
+27/8/2018,Comida,3.925233645,Efectivo,Mini Stop,Tokyo,Jugos
+27/8/2018,Transporte,18.69158879,Efectivo,Tokyo Transportation,Tokyo,Recargar Pasmo
+27/8/2018,Extra,70.55140187,Efectivo,Don Quixote,Tokyo,Maleta
+27/8/2018,Comida,3.738317757,Efectivo,Lawson,Tokyo,Jugo
+27/8/2018,Comida,5.607476636,Efectivo,7-Eleven,Tokyo,Onigiri y comida
+27/8/2018,Extra,23.04672897,Efectivo,Don Quixote,Tokyo,Regalos
+27/8/2018,Comida,26.82242991,Efectivo,Desconocido,Tokyo,Comida
+27/8/2018,Comida,9.345794393,Efectivo,Sukiya,Tokyo,Comida
+27/8/2018,Comida,8.943925234,Efectivo,7-Eleven,Tokyo,Comida
+27/8/2018,Comida,3.85046729,Efectivo,Lawson,Tokyo,Jugo
+27/8/2018,Transporte,7.254203408,Efectivo,Seoul Transportation,Seoul,Tren de Aeropuerto
+27/8/2018,Comida,12.09033901,Efectivo,7-Eleven,Seoul,Snacks
+28/8/2018,Comida,4.271919785,Efectivo,CU,Seoul,Cena
+28/8/2018,Comida,10.47829381,Efectivo,Vietnam Restaurant,Seoul,Comida
+28/8/2018,Extra,20.15056502,Efectivo,Mr Hair,Seoul,Corte de Cabello
+28/8/2018,Extra,16.84587236,Efectivo,Butter,Seoul,"Audifonos, Medicina y Para-aguas"
+28/8/2018,Extra,30.62885883,Efectivo,Sim Card,Seoul,10 Dias
+28/8/2018,Transporte,11.28431641,Efectivo,Metro Card,Seoul,Carta de Metro
+28/8/2018,Comida,8.060226009,Efectivo,Gastos Generales,Tokyo,Comida en Tokyo
+30/8/2018,Comida,6.448180807,Efectivo,Comida Koreana,Seoul,Comida Koreana
+30/8/2018,Comida,2.015056502,Efectivo,CU,Seoul,Nieve
+31/8/2018,Comida,8.060226009,Efectivo,CU,Seoul,Comida
+31/8/2018,Comida,4.836135605,Efectivo,Starbucks,Seoul,Frapucchino
+31/8/2018,Comida,1.612045202,Efectivo,Pequeño Puesto Coreano,Seoul,Carne En un Palito
+31/8/2018,Comida,6.448180807,Efectivo,Comida Koreana,Seoul,Restaurante Coreano
+31/8/2018,Comida,3.224090403,Efectivo,Nieve,Seoul,Nieve con Bella y Kira
+31/8/2018,Utilidades,0,Efectivo,Electricidad,Tokyo,Electricidad
+31/8/2018,Extra,0,Efectivo,The Hub,Tokyo,Guiness
+1/9/2018,Extra,8.060226009,Efectivo,Seoul Tower,Seoul,Ticket
+1/9/2018,Extra,2.015056502,Efectivo,Seoul Tower,Seoul,Campanita
+1/9/2018,Extra,8.060226009,Efectivo,Seoul Tower,Seoul,Juego
+1/9/2018,Transporte,4.030113004,Efectivo,Korean Public Transport,Seoul,Transporte
+1/9/2018,Comida,5.642158206,Efectivo,Restaurante Coreano,Seoul,Comida
+1/9/2018,Comida,2.418067803,Efectivo,Street Food,Seoul,Galleta
+1/9/2018,Utilidades,20.15056502,Efectivo,Daiso,Seoul,Cosas para mi cuarto
+3/9/2018,Utilidades,44.33124305,Efectivo,E-mart,Seoul,Cosas para mi cuarto
+3/9/2018,Comida,8.060226009,Efectivo,CU,Seoul,Cena
+3/9/2018,Comida,6.206374027,Efectivo,Donking Donuts,Seoul,Donas
+3/9/2018,Comida,13.70238421,Efectivo,Restaurante Coreano,Seoul,Pollo
+3/9/2018,Comida,6.448180807,Efectivo,Restaurante Coreano,Seoul,Pasta
+3/9/2018,Comida,2.015056502,Efectivo,CU,Seoul,Onigiri y Jugo
+3/9/2018,Comida,5.239146906,Efectivo,Lotteria,Seoul,Hamburguesa
+5/9/2018,Comida,21.76261022,Efectivo,Korean Restaurant,Seoul,Comida Koreana y Cerveza
+5/9/2018,Comida,5.642158206,Efectivo,Korean Restaurant,Seoul,Shnitzel Koreano
+7/9/2018,Comida,2.821079103,Efectivo,Coffee Shop,Seoul,Milk Tea
+7/9/2018,Comida,6.448180807,Efectivo,Korean Restaurant,Seoul,Shnitzel Koreano
+7/9/2018,Transporte,4.030113004,Efectivo,Korean Transportation System,Seoul,Tarjeta
+7/9/2018,Comida,6.851192107,Efectivo,Pollo,Seoul,Pollo
+7/9/2018,Comida,4.836135605,Efectivo,Korean Restaurant,Seoul,Hamburguesa
+7/9/2018,Transporte,4.030113004,Efectivo,Korean Transportation System,Seoul,Transporte
+7/9/2018,Comida,3.627101704,Efectivo,CU,Seoul,Jugo de Naranja
+8/9/2018,Transporte,16.12045202,Efectivo,Korean Transportation System,Seoul,Transporte
+8/9/2018,Extra,2.418067803,Efectivo,Korean Palace,Seoul,Extra
+8/9/2018,Comida,5.642158206,Efectivo,Korean Restaurant,Seoul,Sopa
+8/9/2018,Comida,1.612045202,Efectivo,CU,Seoul,Milk Tea
+8/9/2018,Comida,6.448180807,Efectivo,Seoul City Tower,Seoul,Beer
+9/9/2018,Extra,40.30113004,Efectivo,LesMore,Seoul,Tennis y Calcetines
+10/9/2018,Comida,8.060226009,Efectivo,Burger Shop,Seoul,Burger
+10/9/2018,Comida,7.254203408,Efectivo,Rice Burger,Seoul,3x Rice Burger
+11/9/2018,Comida,4.836135605,Efectivo,Gangnam Coffee,Seoul,Milk Tea
+11/9/2018,Comida,3.224090403,Efectivo,Tous les Jours,Seoul,Bread with egg and Bacon
+12/9/2018,Comida,6.448180807,Efectivo,Korean Restaurant,Seoul,"Tofu, meat soup"
+12/9/2018,Comida,8.060226009,Efectivo,Rooftop Restaurant,Seoul,Beer
+12/9/2018,Comida,5.642158206,Efectivo,CU,Seoul,Milk and Bathroom
+14/9/2018,Comida,7.254203408,Efectivo,Milkshake Restaurant,Seoul,Shake and Ice Cream
+16/9/2018,Comida,13.70238421,Efectivo,Market,Seoul,"Nutella, Oil etc.."
+16/9/2018,Comida,24.18067803,Efectivo,Market,Seoul,"Fruits, Vegetables etc.."
+16/9/2018,Comida,3.224090403,Efectivo,CU,Seoul,Burger and Drinks
+16/9/2018,Comida,1.612045202,Efectivo,Market,Seoul,10 Huevos
+16/9/2018,Extra,18.53851982,Efectivo,Tous les Jours,Seoul,Pastel de Johannes
+16/9/2018,Comida,2.418067803,Efectivo,Tous les Jours,Seoul,Pan y regalo
+17/9/2018,Comida,4.836135605,Efectivo,CU,Seoul,Comida
+17/9/2018,Comida,8.86624861,Efectivo,Korean Restaurant,Seoul,Carne
+19/9/2018,Comida,8.86624861,Efectivo,CU,Seoul,Comida Extra
+23/9/2018,Comida,8.624441829,Efectivo,Shiba Caffe,Seoul,Coffe and Macaron
+23/9/2018,Comida,6.448180807,Efectivo,Korean Restaurant,Seoul,Chicken Stuff
+23/9/2018,Comida,8.060226009,Efectivo,Club,Seoul,Entrance to club
+23/9/2018,Comida,15.31442942,Efectivo,Comida Koreana,Seoul,CU
+23/9/2018,Comida,4.836135605,Efectivo,Aribaba,Seoul,Alitas
+24/9/2018,Comida,25.38971193,Efectivo,Market,Seoul,Comida para la semana
+24/9/2018,Comida,4.030113004,Efectivo,Market,Seoul,Melon
+24/9/2018,Comida,1.612045202,Efectivo,Market,Seoul,Huevo
+24/9/2018,Comida,8.86624861,Efectivo,CU,Seoul,Jugos
+26/9/2018,Utilidades,5.400351426,Efectivo,CU,Seoul,Jabon
+26/9/2018,Comida,15.07262264,Efectivo,Indian Restaurant,Seoul,Celebracion del dian Nacional Sud Africano
+28/9/2018,Extra,80.60226009,Efectivo,Kira,Seoul,Pagar Voletos de Avion y Hotel
+29/9/2018,Comida,2.901681363,Efectivo,Onigiri y Jugo,Jeju,Comida
+29/9/2018,Comida,8.86624861,Efectivo,Sandwich y jugo,Jeju,Comida
+29/9/2018,Comida,1.612045202,Efectivo,Chocolate,Jeju,Jugo
+29/9/2018,Comida,10.47829381,Efectivo,BBQ,Jeju,Carne
+29/9/2018,Extra,8.060226009,Efectivo,Mueso,Jeju,Ticket
+29/9/2018,Comida,6.448180807,Efectivo,Comida Koreana,Jeju,Sopa
+29/9/2018,Comida,5.239146906,Efectivo,Lotteria,Jeju,Hamburguesa
+1/10/2018,Extra,25.79272323,Efectivo,Kira,Jeju,Hotel
+2/10/2018,Comida,5.239146906,Efectivo,Lotteria,Seoul,Hamburguesa
+2/10/2018,Comida,4.916737865,Efectivo,Starbucks,Seoul,Frapucchino
+2/10/2018,Utilidades,26.59874583,Efectivo,Gobierno de Korea,Seoul,ARC
+2/10/2018,Transporte,8.060226009,Efectivo,Gobierno de Korea,Seoul,Metro
+2/10/2018,Utilidades,2.901681363,Efectivo,Banco,Jeju,Commision de Banco
+2/10/2018,Comida,15.31442942,Efectivo,Market,Seoul,Comida para la semana
+2/10/2018,Comida,1.612045202,Efectivo,Market,Seoul,Huevos
+2/10/2018,Comida,13.70238421,Efectivo,Market,Seoul,Comida para la semana
+2/10/2018,Comida,3.627101704,Efectivo,Hipster Store,Seoul,Jugo de Mango
+6/10/2018,Comida,2.821079103,Efectivo,CU,Seoul,Jugo para mi y Bela
+6/10/2018,Comida,5.239146906,Efectivo,Pizza School,Seoul,Pizza
+6/10/2018,Comida,2.821079103,Efectivo,CU,Seoul,Papas par Kakao
+8/10/2018,Comida,3.627101704,Efectivo,CU,Seoul,Jugos
+8/10/2018,Comida,2.821079103,Efectivo,CU,Seoul,Milk Tea y Onigiri
+8/10/2018,Comida,7.173601148,Efectivo,Tous les Jours,Seoul,Pan
+8/10/2018,Comida,17.49069044,Efectivo,Market,Seoul,Comida para la semana
+8/10/2018,Comida,15.31442942,Efectivo,Market,Seoul,Comida para la semana
+9/10/2018,Comida,10.47829381,Efectivo,Market,Seoul,Cereal
+9/10/2018,Comida,0.806022601,Efectivo,Mini Stop,Seoul,Onigiri
+9/10/2018,Comida,2.418067803,Efectivo,Hot Dog Place,Seoul,Hot Dog
+17/10/2018,Comida,4.836135605,Efectivo,Starbucks,Seoul,Drink
+17/10/2018,Transporte,8.060226009,Efectivo,Korean Transportation System,Seoul,Add Money
+17/10/2018,Extra,24.18067803,Efectivo,Thrift Store,Seoul,Coat
+17/10/2018,Utilidades,24.18067803,Efectivo,Blanket Shop,Seoul,Blanket
+17/10/2018,Comida,0.806022601,Efectivo,Korean Restaurant,Seoul,Drink
+17/10/2018,Comida,6.448180807,Efectivo,McDonalds,Seoul,Burger
+17/10/2018,Transporte,8.060226009,Efectivo,Korean Transportation System,Seoul,Add Money
+17/10/2018,Comida,1.370238421,Efectivo,CU,Seoul,Drink
+17/10/2018,Comida,7.254203408,Efectivo,Korean Restaurant,Seoul,Chicken
+17/10/2018,Comida,5.642158206,Efectivo,CU,Seoul,Drink and food
+17/10/2018,Comida,5.642158206,Efectivo,Korean Restaurant,Seoul,Dinner
+19/10/2018,Comida,3.304692664,Efectivo,Coffee Shop,Seoul,Coffee
+19/10/2018,Comida,5.642158206,Efectivo,Korean Restaurant,Seoul,Gimbap
+20/10/2018,Extra,4.836135605,Efectivo,Korean Bar,Seoul,Cerveza
+20/10/2018,Extra,7.254203408,Efectivo,Korean Bar,Seoul,Cerveza
+20/10/2018,Extra,12.09033901,Efectivo,Korean CLub,Seoul,Ticket de entrada y Cerveza
+20/10/2018,Comida,12.09033901,Efectivo,Restaurante Coreano,Seoul,Comida con Marita
+21/10/2018,Extra,2.901681363,Efectivo,Banco,Seoul,Commision de Banco
+21/10/2018,Transporte,8.060226009,Efectivo,Seoul Transportation,Seoul,Añadi mas dinero a mi tarjeta
+21/10/2018,Utilidades,8.060226009,Efectivo,Labadora,Seoul,Limpiar mi ropa
+21/10/2018,Comida,12.09033901,Efectivo,Restaurante Coreano,Seoul,Comida
+26/10/2018,Comida,11.68732771,Efectivo,Restaurante Japones,Seoul,Comida
+26/10/2018,Comida,4.433124305,Efectivo,Google Campus,Seoul,Caffee
+26/10/2018,Comida,5.642158206,Efectivo,KFC,Seoul,Pollo
+28/10/2018,Comida,16.12045202,Efectivo,Thai Restaurant,Seoul,Comida de Aniversario
+28/10/2018,Utilidades,8.060226009,Efectivo,Labadora,Seoul,Limpiar mi ropa
+30/10/2018,Comida,4.352522045,Efectivo,Hanzot,Seoul,Comida con Jugo
+30/10/2018,Comida,2.659874583,Efectivo,Juice,Seoul,Jugo
+30/10/2018,Comida,3.224090403,Efectivo,Onigiri y Jugo,Seoul,Comida
+31/10/2018,Comida,4.030113004,Efectivo,Caffee,Seoul,Caffee
+3/11/2018,Utilidades,4.030113004,Efectivo,Labadora,Seoul,Limpiar mi ropa
+3/11/2018,Extra,0.4030113,Efectivo,Binoculares,DMZ,Para ver a Corea del Norte
+4/11/2018,Comida,3.949510744,Efectivo,McDonalds,Seoul,Hamburguesa
+5/11/2018,Comida,39.89811874,Efectivo,Market,Seoul,Comida para la semana
+5/11/2018,Comida,14.50840682,Efectivo,Market,Seoul,Cereal
+5/11/2018,Comida,2.418067803,Efectivo,Market,Seoul,Huevos
+5/11/2018,Comida,4.030113004,Efectivo,Tous les Jours,Seoul,Bread
+6/11/2018,Comida,5.480953686,Efectivo,Korean Restaurant,Seoul,Soup
+7/11/2018,Comida,2.659874583,Efectivo,Smoothie Shop,Seoul,Jugo
+8/11/2018,Utilidades,8.86624861,Efectivo,CU,Seoul,Shampoo
+8/11/2018,Transporte,8.060226009,Efectivo,CU,Seoul,Dinero en mi tarjeta
+9/11/2018,Comida,21.76261022,Efectivo,Korean Restaurant,Seoul,Cena con Mau
+9/11/2018,Comida,4.433124305,Efectivo,Korean Restaurant,Seoul,Cena en Smart City
+10/11/2018,Transporte,8.060226009,Efectivo,CU,Seoul,Para Transporte
+10/11/2018,Extra,8.060226009,Efectivo,GCV,Seoul,Palomitas
+10/11/2018,Extra,8.86624861,Efectivo,GCV,Seoul,Ticket para Pelicula
+12/11/2018,Comida,20.31176954,Efectivo,Market,Seoul,Comida para la semana
+12/11/2018,Comida,1.209033901,Efectivo,CU,Seoul,Pan Dulce
+12/11/2018,Comida,2.821079103,Efectivo,Panaderia,Seoul,Pan
+14/11/2018,Transporte,12.09033901,Efectivo,Camion,Seoul,Para ver a Papa
+15/11/2018,Utilidades,3.465897184,Efectivo,Comission,Seoul,Banco
+15/11/2018,Transporte,4.836135605,Efectivo,Transporte,Seoul,Dia con Papa
+15/11/2018,Transporte,8.060226009,Efectivo,Metro Card,Seoul,Dia con Papa
+15/11/2018,Transporte,8.060226009,Efectivo,Metro Card,Seoul,Dia con Papa
+15/11/2018,Transporte,7.657214708,Efectivo,Metro Card,Seoul,Dia con Papa
+17/11/2018,Transporte,4.030113004,Efectivo,Metro Card,Seoul,Dinero me Segunda Tarjeta
+17/11/2018,Comida,3.627101704,Efectivo,CU,Seoul,Papas para mi y Kira
+18/11/2018,Comida,4.030113004,Efectivo,McDonalds,Seoul,Hamburguesa
+18/11/2018,Comida,3.224090403,Efectivo,Tous les Jours,Seoul,Pan
+19/11/2018,Comida,5.642158206,Efectivo,Caffee,Seoul,Milk Tea Pasado
+19/11/2018,Extra,7.254203408,Efectivo,Wolfhound,Seoul,Cerveza
+20/11/2018,Comida,5.077942386,Efectivo,Korean Restaurant,Seoul,Comida con Bella y Kira
+20/11/2018,Comida,3.627101704,Efectivo,Caffee,Seoul,Caffee
+21/11/2018,Comida,6.045169507,Efectivo,Drink and Waffle,Seoul,Drink and Waffle
+22/11/2018,Comida,5.239146906,Efectivo,Jesus Coffee,Seoul,Drink and Waffle
+22/11/2018,Comida,12.73515709,Efectivo,Sultan Kebab,Seoul,Kebab
+23/11/2018,Comida,15.31442942,Efectivo,Dumpling,Seoul,Dumplings
+24/11/2018,Transporte,8.060226009,Efectivo,Metro Card,Seoul,Añadi mas dinero a mi tarjeta
+24/11/2018,Comida,10.47829381,Efectivo,Market,Seoul,Cereal y Leche
+24/11/2018,Comida,3.304692664,Efectivo,Market,Seoul,Pan
+24/11/2018,Comida,8.86624861,Efectivo,Thai Restaurant,Seoul,Comida de Tailandia
+25/11/2018,Comida,4.030113004,Efectivo,Coffee Shop,Seoul,Coffee
+26/11/2018,Comida,1.612045202,Efectivo,7-Eleven,Seoul,Milk Tea
+28/11/2018,Utilidades,81.65008947,Efectivo,Indian Visa,Seoul,Pago de Visa
+28/11/2018,Comida,4.433124305,Efectivo,Angel Coffee,Seoul,Coffee
+29/11/2018,Comida,2.901681363,Efectivo,Tienda Chica,Seoul,Cafe para Kira
+29/11/2018,Comida,8.382635049,Efectivo,Jesus Coffee,Seoul,Comida y Milk Tea
+30/11/2018,Utilidades,8.060226009,Efectivo,CU,Seoul,Telefono
+30/11/2018,Transporte,8.060226009,Efectivo,CU,Seoul,Transporte
+30/11/2018,Utilidades,7.657214708,Efectivo,Indian Visa,Seoul,Pago de Visa
+30/11/2018,Comida,26.51814357,Efectivo,Burger Shop,Seoul,Comida con Kira
+1/11/2018,Comida,5.480953686,Efectivo,Jesus Coffee,Seoul,Waffle and Milk Tea
+1/11/2018,Comida,5.480953686,Efectivo,Angel Coffee,Seoul,Chocolate
+3/12/2018,Comida,12.89636161,Efectivo,Cena,Busan,Hamburguesa
+3/12/2018,Comida,5.910563732,Efectivo,Cena,Busan,Pollo
+3/12/2018,Comida,8.597037061,Efectivo,Cena,Busan,Mariscos
+4/12/2018,Extra,12.09033901,Efectivo,Corte de Pelo,Seoul,Corte de Cabello
+4/12/2018,Comida,3.868908484,Efectivo,Angel Coffee,Seoul,Sandwich
+4/12/2018,Comida,3.143488143,Efectivo,Hanzot,Seoul,Comida
+5/12/2018,Extra,89.90779101,Efectivo,Pagar Bella,Seoul,Hotel y Avion
+5/12/2018,Comida,4.433124305,Efectivo,OFETE,Seoul,Jugo
+7/12/2018,Comida,5.480953686,Efectivo,Jesus Coffee,Seoul,Milk Tea Waffle
+7/12/2018,Extra,28.21079103,Efectivo,Soap,Seoul,Mura Masa
+7/12/2018,Comida,16.12045202,Efectivo,Kebab,Seoul,Kebab
+10/12/2018,Extra,16.12045202,Efectivo,Kira,Seoul,Pagar a Kira
+10/12/2018,Extra,24.18067803,Efectivo,Octagon,Seoul,Tequila
+10/12/2018,Extra,24.18067803,Efectivo,Octagon,Seoul,Drinks
+10/12/2018,Comida,5.561555946,Efectivo,Loterria,Seoul,Hamburguesa
+10/12/2018,Extra,5.561555946,Efectivo,Regalo para Familia,Seoul,Regalos
+10/12/2018,Extra,1.773249722,Efectivo,Regalo para Familia,Seoul,Regalos
+11/12/2018,Extra,97.52873471,Tarjeta,Nintendo Store,Seoul,Regalo Personal
+12/12/2018,Transporte,2.418067803,Efectivo,Metro Card,Seoul,Metro
+15/12/2018,Comida,4.030113004,Efectivo,Mont Blanc,Seoul,Coffee
+15/12/2018,Comida,9.67227121,Efectivo,Mau,Seoul,Taxi + Comida
+15/12/2018,Comida,3.224090403,Efectivo,Hanzot,Seoul,Curry
+17/12/2018,Comida,8.060226009,Efectivo,Kebab,Seoul,Kebab con Abi
+17/12/2018,Transporte,4.030113004,Efectivo,Metro Card,Seoul,Metro
+17/12/2018,Extra,16.12045202,Efectivo,Apuesta,Seoul,Perdio Cruz Azul
+18/12/2018,Extra,19.34454242,Efectivo,Meerkat Caffee,Seoul,Entrada al Caffee
+18/12/2018,Transporte,8.060226009,Efectivo,Transporte,Seoul,Metro
+19/12/2018,Extra,52.39146906,Tarjeta,Tienda Chica,Seoul,Arretes para Kira de navidad
+19/12/2018,Comida,1.612045202,Efectivo,CU,Seoul,Onigiri
+13/01/2019,Comida,5.817320347,Efectivo,IKEA,Hyderabad,India Meatballs
+13/01/2019,Comida,4.474861806,Efectivo,KFC,Mumbai,Chicken Burger
+13/01/2019,Comida,5.11976836,Efectivo,IKEA,Hyderabad,Cosas para el Cuarto
+13/01/2019,Transporte,0,Efectivo,Aeropuerto,Hyderabad,Taxi a Residencia
+13/01/2019,Comida,21.0581732,Efectivo,Supermercado,Hyderabad,Comida para la semana
+13/01/2019,Comida,3.290339563,Efectivo,Restaurante del hotel,Hyderabad,Buffet
+13/01/2019,Comida,6.580679126,Efectivo,Restaurante del hotel,Hyderabad,Comida con Ram
+13/01/2019,Extra,18.42590155,Efectivo,Pagar Juan,Hyderabad,Pagar por Apuesta
+13/01/2019,Comida,17.10976573,Efectivo,Pagar Kira,Hyderabad,Pagar Kira por Buffet
+13/01/2019,Comida,1.316135825,Efectivo,Spar,Hyderabad,Alitas
+13/01/2019,Comida,5.72519084,Efectivo,Heritage,Hyderabad,Cereal
+14/01/2019,Comida,6.580679126,Efectivo,Chicken,Hyderabad,Chicken
+14/01/2019,Comida,2.63227165,Efectivo,Pista,Hyderabad,Chicken
+14/01/2019,Comida,1.316135825,Efectivo,Milk Shop,Hyderabad,Nieve
+16/01/2019,Comida,1.316135825,Efectivo,Pista,Hyderabad,Chicken (Era 700 menos lo que pago Kira
+16/01/2019,Comida,4.343248223,Efectivo,Sentido,Hyderabad,Coffee and Cake
+17/01/2019,Comida,3.553566728,Efectivo,Dosa Hut,Hyderabad,Dosa
+19/01/2019,Transporte,2.369044485,Efectivo,Uber,Hyderabad,Auto
+19/01/2019,Comida,5.264543301,Efectivo,Autum Caffe,Hyderabad,Comida
+20/01/2019,Extra,9.871018689,Efectivo,Go-Karts,Hyderabad,Go-Karts
+20/01/2019,Transporte,0.868649645,Efectivo,Uber,Hyderabad,Uber a los Go-Karts
+20/01/2019,Comida,2.369044485,Efectivo,Apartamento,Hyderabad,Buffet
+21/01/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Cafe
+21/01/2019,Comida,6.843906291,Efectivo,Heritage,Hyderabad,Comida para la semana
+24/01/2019,Comida,6.580679126,Efectivo,Chicken,Hyderabad,Pollo
+24/01/2019,Comida,2.10581732,Efectivo,Sentido,Hyderabad,Caffe
+25/01/2019,Comida,4.093182416,Efectivo,McDonalds,Hyderabad,Swiggy Meal
+26/01/2019,Extra,2.63227165,Efectivo,Football,Hyderabad,Pagar para Footbal
+26/01/2019,Extra,0,Efectivo,Football,Hyderabad,Pagar a Nebraska
+26/01/2019,Extra,0,Efectivo,Football,Hyderabad,Pagar a Dennis
+26/01/2019,Transporte,1.645169782,Efectivo,Taxi,Hyderabad,Taxi a Fiesta
+26/01/2019,Transporte,1.316135825,Efectivo,Taxi de regreso,Hyderabad,Extra dinero
+26/01/2019,Comida,3.685180311,Efectivo,Sentido,Hyderabad,Caffe y Pan
+26/01/2019,Comida,2.63227165,Efectivo,Street Food,Hyderabad,Comida de la india
+26/01/2019,Comida,4.277441432,Efectivo,Hotel,Hyderabad,Comida de la india
+28/01/2019,Comida,12.91129245,Efectivo,Heritage,Hyderabad,Comida para la semana
+28/01/2019,Comida,1.842590155,Efectivo,Sentido,Hyderabad,Cappucino
+30/01/2019,Comida,5.962095288,Efectivo,Chai Tea,Hyderabad,Chai and Breakfast
+1/2/2019,Extra,4.869702553,Efectivo,Party,Hyderabad,Pago por Papas
+1/2/2019,Comida,5.962095288,Efectivo,Kira,Hyderabad,Comida de Hotel
+5/2/2019,Comida,2.369044485,Efectivo,Hotel,Hyderabad,Comida
+5/2/2019,Extra,9.871018689,Efectivo,Paintball,Hyderabad,Paintabll
+5/2/2019,Comida,3.356146354,Efectivo,Hotel,Hyderabad,Comida
+6/2/2019,Comida,2.500658068,Efectivo,Coffee,Hyderabad,Caffe
+6/2/2019,Comida,3.685180311,Efectivo,Heritage,Hyderabad,Comida para la semana
+6/2/2019,Extra,0,Efectivo,Linnea,Hyderabad,Ayuda a Linnea
+7/2/2019,Comida,2.369044485,Efectivo,Hotel,Hyderabad,Comida
+9/2/2019,Comida,7.107133456,Efectivo,Expensive Lunch,Hyderabad,Comida
+9/2/2019,Comida,2.500658068,Efectivo,Sentido,Hyderabad,Caffe
+9/2/2019,Extra,2.63227165,Efectivo,Football,Hyderabad,Football
+9/2/2019,Extra,2.63227165,Efectivo,Football,Hyderabad,Dennis
+10/2/2019,Comida,2.369044485,Efectivo,Vegteble Shop,Hyderabad,Gatorade
+10/2/2019,Comida,2.369044485,Efectivo,Hotel,Hyderabad,Buffet
+10/2/2019,Comida,10.14938142,Efectivo,Vegteble Shop,Hyderabad,Comida para la semana
+10/2/2019,Comida,9.397209792,Efectivo,Heritage,Hyderabad,Comida para la semana
+12/2/2019,Comida,4.211634641,Efectivo,Vegteble Shop,Hyderabad,Comida para la semana
+13/2/2019,Comida,8.225848908,Efectivo,SoundGarden,Hyderabad,Valentines Food
+13/2/2019,Comida,2.369044485,Efectivo,Coffee,Hyderabad,Coffee
+19/2/2019,Extra,0,Efectivo,Jacob,Goa,Bribe
+19/2/2019,Extra,0,Efectivo,Rodrig,Goa,Moto Transport
+19/2/2019,Extra,13.16135825,Efectivo,Car,Goa,Gas
+19/2/2019,Extra,13.16135825,Efectivo,Car,Goa,Gas
+19/2/2019,Extra,0,Efectivo,Yana,Goa,Comida
+19/2/2019,Comida,4.606475388,Efectivo,Kebab,Bavish,Comida
+19/2/2019,Comida,5.001316136,Efectivo,Byriani,Goa,Comida
+19/2/2019,Comida,9.212950777,Efectivo,Kebab,Goa,Food with Kira
+19/2/2019,Transporte,4.343248223,Efectivo,Taxi,Goa,Taxi con Marley
+19/2/2019,Transporte,6.580679126,Efectivo,Taxi,Goa,Taxi de hostal a Kira
+20/02/2019,Transporte,18.42590155,Efectivo,Autobus del Infierno,Goa,Pagado a Ani
+20/02/2019,Transporte,5.264543301,Efectivo,Taxi,Goa,Taxi de central a Casa
+20/02/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Pastel
+20/02/2019,Comida,5.001316136,Efectivo,Hotel,Hyderabad,Comida para la semana
+22/02/2019,Comida,0.131613583,Efectivo,Indian Shop,Hyderabad,Chai
+22/02/2019,Comida,3.685180311,Efectivo,Sentido,Hyderabad,Coffee and Cake
+22/02/2019,Extra,2.63227165,Tarjeta,Banco,Hyderabad,Transferencia
+23/02/2019,Comida,0,Efectivo,Sentido,Hyderabad,Kira
+25/02/2019,Comida,0,Efectivo,Kebab,Hyderabad,Abisayo
+25/02/2019,Comida,2.655304027,Efectivo,Kebab,Hyderabad,Kebab
+26/02/2019,Comida,0,Efectivo,Sentido,Hyderabad,Caffe Para Kira - 300
+26/02/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Caffe
+26/02/2019,Comida,4.211634641,Tarjeta,Hotel,Hyderabad,Comida
+27/02/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Caffe
+2/3/2019,Comida,3.816793893,Efectivo,Linnea,Hyderabad,Burger King
+2/3/2019,Comida,2.63227165,Efectivo,Carpe Diem,Hyderabad,Coke with Rum
+2/3/2019,Comida,0,Efectivo,Abisayo,Hyderabad,Margarita
+2/3/2019,Comida,5.027638852,Efectivo,Vegteble Shop,Hyderabad,Comida para la semana
+2/3/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Caffee
+3/3/2019,Transporte,1.316135825,Efectivo,Abisayo,Hyderabad,Comida
+3/3/2019,Comida,6.317451961,Tarjeta,Sentido,Hyderabad,Pastel
+3/3/2019,Comida,5.027638852,Efectivo,Vegteble Shop,Hyderabad,Comida para la semana
+3/3/2019,Comida,8.949723611,Efectivo,Vegteble Shop,Hyderabad,Comida para la semana
+7/3/2019,Comida,14.39852593,Efectivo,Heritage,Hyderabad,Comida para la semana
+7/3/2019,Comida,2.553303501,Efectivo,Hotel,Hyderabad,Cena
+9/3/2019,Comida,7.896814951,Efectivo,Swiggy,Hyderabad,Cena con Kira
+10/3/2019,Comida,7.896814951,Efectivo,Swiggy,Hyderabad,Cena con Kira
+11/3/2019,Extra,23.69044485,Efectivo,Apollo Hospital,Hyderabad,Consulta
+11/3/2019,Transporte,0.658067913,Efectivo,Uber,Hyderabad,Viaje a Hospital
+11/3/2019,Comida,5.264543301,Efectivo,Hotel,Hyderabad,Sopa
+12/3/2019,Comida,5.264543301,Efectivo,Hotel,Hyderabad,Sopa
+14/3/2019,Extra,39.48407476,Efectivo,H&M,Hyderabad,Ropa para mi y Kira
+14/3/2019,Comida,3.290339563,Efectivo,McDonalds,Hyderabad,Hamburgesa
+14/3/2019,Transporte,1.842590155,Efectivo,Uber,Hyderabad,Viaje a Inorbit Mall
+15/3/2019,Comida,3.290339563,Efectivo,Vegteble Shop,Hyderabad,Vegetales y Gatorade
+15/3/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Caffe
+16/3/2019,Comida,7.896814951,Efectivo,Cine,Hyderabad,Pelicula Captain Marvel
+16/3/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Caffe
+17/3/2019,Transporte,2.63227165,Efectivo,Alive,Hyderabad,Transporte
+17/3/2019,Comida,11.05554093,Efectivo,Alive,Hyderabad,Comida
+17/3/2019,Comida,3.948407476,Efectivo,Starbucks,Hyderabad,Caffee
+17/3/2019,Comida,6.317451961,Efectivo,Heritage,Hyderabad,Huevos
+18/3/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Caffee
+19/3/2019,Comida,3.158725981,Efectivo,Hotel,Hyderabad,Noodles
+20/3/2019,Comida,3.290339563,Efectivo,Burger King,Hyderabad,Hamburgesa
+20/3/2019,Comida,6.580679126,Efectivo,Starbucks,Hyderabad,Caffe
+20/3/2019,Extra,19.74203738,Efectivo,FabIndia,Hyderabad,Ropa de la India
+20/3/2019,Transporte,3.290339563,Efectivo,Uber,Hyderabad,Transporte
+24/3/2019,Transporte,2.63227165,Efectivo,Uber,Hyderabad,Transporte
+24/3/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Caffe
+24/3/2019,Transporte,0.52645433,Efectivo,Uber,Hyderabad,Transporte
+24/3/2019,Comida,2.63227165,Efectivo,Hotel,Hyderabad,Comida
+24/3/2019,Comida,5.264543301,Efectivo,Pista House,Hyderabad,Biryani
+24/3/2019,Extra,118.4522243,Tarjeta,Hotel,Jaipur,Hotel para 7 dias
+24/3/2019,Comida,7.896814951,Efectivo,Swiggy,Hyderabad,Pizza
+26/3/2019,Comida,3.685180311,Efectivo,Hotel,Hyderabad,Noodles
+26/3/2019,Comida,2.10581732,Efectivo,Heritage,Hyderabad,Comida para hoy
+1/4/2019,Transporte,6.317451961,Efectivo,Uber,Hyderabad,Hotel a Aeropuerto
+1/4/2019,Comida,5.790997631,Efectivo,KFC,Hyderabad,Comida
+1/4/2019,Extra,11.05554093,Efectivo,Tata Sound,Hyderabad,Audifonos
+1/4/2019,Transporte,81.60042116,Tarjeta,Hosteler,Jaipur,Tour a Agra
+1/4/2019,Extra,34.21953146,Efectivo,Taj Mahal,Agra,Ticket
+1/4/2019,Extra,32.90339563,Efectivo,Taj Mahal,Agra,Fotos
+1/4/2019,Extra,6.580679126,Efectivo,Taj Mahal,Agra,Campana
+1/4/2019,Extra,19.74203738,Efectivo,Taj Mahal,Agra,Guia
+1/4/2019,Comida,15.13556199,Efectivo,Taj Mahal,Agra,Comida
+1/4/2019,Extra,15.7936299,Efectivo,Agra Fort,Agra,Ticket
+1/4/2019,Extra,2.63227165,Efectivo,Sonu,Jaipur,Propina
+1/4/2019,Comida,5.988418005,Efectivo,Hosteler,Jaipur,Cena
+1/4/2019,Extra,27.63885233,Efectivo,Hosteler,Jaipur,Tour Jaipur
+1/4/2019,Extra,0.789681495,Efectivo,Templo,Jaipur,Ticket
+1/4/2019,Extra,1.316135825,Efectivo,Amber Templo,Jaipur,Ticket
+1/4/2019,Comida,1.118715451,Efectivo,Hosteler,Jaipur,Drink
+1/4/2019,Comida,3.948407476,Efectivo,Hosteler,Jaipur,Comida
+1/4/2019,Comida,10.5290866,Efectivo,Comida,Jaipur,Ticket
+1/4/2019,Extra,7.896814951,Efectivo,Artesanos,Jaipur,Huevo
+1/4/2019,Extra,3.948407476,Efectivo,Artesanos,Jaipur,Regalos Extra
+1/4/2019,Extra,9.212950777,Efectivo,Artesanos,Jaipur,Regalos Extra
+1/4/2019,Transporte,2.63227165,Efectivo,Uber,Jaipur,Al Aeropuerto
+1/4/2019,Comida,3.948407476,Efectivo,Byriani,Hyderabad,Comida
+1/4/2019,Comida,4.738088971,Tarjeta,Sentido,Hyderabad,Caffe
+5/4/2019,Comida,6.317451961,Efectivo,Vegteble Shop,Hyderabad,Comida para semana
+5/4/2019,Comida,3.948407476,Efectivo,Vegteble Shop,Hyderabad,Comida para semana
+5/4/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Coffee
+5/4/2019,Comida,5.330350092,Efectivo,Subway,Hyderabad,Cena
+5/4/2019,Comida,2.737562516,Efectivo,Momos,Hyderabad,Cena
+5/4/2019,Comida,3.948407476,Efectivo,Sentido,Hyderabad,Caffee Y pan
+5/4/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Caffee
+5/4/2019,Comida,2.500658068,Efectivo,Sentido,Hyderabad,Caffee
+8/4/2019,Comida,5.264543301,Efectivo,Sentido,Hyderabad,Caffee y pan
+8/4/2019,Comida,5.264543301,Efectivo,Heritage,Hyderabad,Comida para mejorarme
+8/4/2019,Comida,5.264543301,Efectivo,Hotel,Hyderabad,Comida de Hotel
+9/4/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Caffe
+9/4/2019,Comida,3.027112398,Efectivo,Donner,Hyderabad,Donner
+13/4/2019,Comida,2.369044485,Efectivo,Sentido,Hyderabad,Coffee
+13/4/2019,Comida,3.158725981,Efectivo,Donner,Hyderabad,Donner
+13/4/2019,Transporte,1.842590155,Efectivo,Uber,Hyderabad,Rebecca
+13/4/2019,Comida,2.369044485,Efectivo,Asma,Hyderabad,Asma
+13/4/2019,Comida,12.89813109,Efectivo,Heritage,Hyderabad,Comida para la semana
+16/4/2019,Comida,3.158725981,Tarjeta,Donner,Hyderabad,Comida
+16/4/2019,Comida,2.369044485,Tarjeta,Sentido,Hyderabad,Caffee
+23/4/2019,Comida,4.474861806,Tarjeta,Sentido,Hyderabad,Caffe + Pan
+23/4/2019,Comida,4.474861806,Tarjeta,Sentido,Hyderabad,Caffe + Pan
+23/4/2019,Comida,6.751776783,Tarjeta,Cumpleaños Kira,Hyderabad,Pizza
+23/4/2019,Comida,4.474861806,Tarjeta,Sentido,Hyderabad,Caffe + Pan
+24/4/2019,Comida,7.896814951,Tarjeta,Starbucks,Hyderabad,Comida
+24/4/2019,Transporte,1.316135825,Efectivo,Uber,Hyderabad,Transporte
+27/4/2019,Comida,4.080021058,Efectivo,Sentido,Hyderabad,Comida y Pan
+27/4/2019,Comida,4.080021058,Efectivo,Sentido,Hyderabad,Comida y Pan
+29/4/2019,Comida,26.3227165,Efectivo,Haiku,Hyderabad,Cena
+29/4/2019,Comida,11.84522243,Efectivo,Chicken,Hyderabad,Byriani
+29/4/2019,Transporte,10.5290866,Efectivo,Uber,Hyderabad,Uber a AirBnB
+29/4/2019,Transporte,6.580679126,Efectivo,Uber,Hyderabad,Uber a AirBnB
+29/4/2019,Extra,92.12950777,Efectivo,Aeropuerto,Hyderabad,Avion a Mumbai
+29/4/2019,Extra,21.0581732,Efectivo,Aeropuerto,Hyderabad,Costa para Kilos
+29/4/2019,Extra,5.527770466,Efectivo,Aeropuerto,Hyderabad,Limonada
+29/4/2019,Extra,4.869702553,Efectivo,Aeropuerto,Hyderabad,Taxi
+29/4/2019,Extra,52.64543301,Efectivo,Hotel,Mumbai,Hotel para una noche
+29/4/2019,Comida,13.16135825,Efectivo,Comida de la India,Mumbai,Comida de la india
+30/4/2019,Transporte,28.95498815,Efectivo,Aeropuerto,New York,Transporte de Newark a JFK
+30/4/2019,Comida,10.92392735,Efectivo,Aeropuerto,New York,Pizza
+30/4/2019,Extra,30.27112398,Efectivo,Aeropuerto,Hyderabad,Bufanda
+6/5/2019,Comida,12.31852178,Efectivo,Hakiro,Monterrey,PokeBowl
+7/5/2019,Transporte,8.798944127,Tarjeta,Uber,Monterrey,Transporte a Udem
+9/5/2019,Transporte,8.798944127,Tarjeta,Uber,Monterrey,Transporte
+20/5/2019,Comida,4.399472063,Efectivo,Oxxo,Cancun,Papas
+20/5/2019,Comida,0,Efectivo,Restaurante,Cancun,Foto y Tequila
+20/5/2019,Transporte,8.798944127,Efectivo,Pemex,Cancun,Gasolina
+22/5/2019,Comida,7.699076111,Efectivo,Liverpool,Monterrey,Comida
+26/5/2019,Comida,13.19841619,Efectivo,Indio Azteca,Monterrey,Comida
+30/5/2019,Transporte,4.399472063,Efectivo,Uber,Monterrey,Transporte de casa de Jorge
+30/5/2019,Comida,8.798944127,Efectivo,Hot Dogs,Monterrey,Comida
+2/6/2019,Extra,5.279366476,Efectivo,7-Eleven,Monterrey,Regalo a Juan
+23/6/2019,Comida,43.99472063,Efectivo,Estimacion,Monterrey,Comida + Laredo
+2/7/2019,Extra,14.0783106,Efectivo,AT&T,Monterrey,Telefono
+8/7/2019,Extra,26.39683238,Efectivo,Aeropuerto,Monterrey,Maletas
+10/7/2019,Extra,10.73471183,Efectivo,Consulado Español,Monterrey,Antecedentes Penales
+10/7/2019,Extra,8.798944127,Efectivo,Cinepolis,Monterrey,Cine
+28/7/2019,Transporte,13.19841619,Efectivo,Multiples,CDMX,Transporte + Comida
+28/7/2019,Comida,17.59788825,Efectivo,Cinemex,Monterrey,Boltetos + Comida
+15/8/2019,Transporte,30.79630444,Efectivo,Taxi,Monterrey,Transporte a aeropuerto
+15/8/2019,Comida,6.159260889,Efectivo,Comida,CDMX,Comida
+15/8/2019,Transporte,13.19841619,Efectivo,Uber,CDMX,Transporte en CDMX
+26/8/2019,Comida,21.99736032,Efectivo,Multiples,Monterrey,Multiples
+14/9/2019,Comida,5.434782609,Efectivo,Supermarket,Magdeburg,Jugos
+14/9/2020,Extra,3.369565217,Efectivo,DM,Magdeburg,Desodorante
+14/9/2021,Extra,8.684782609,Efectivo,Saturn,Magdeburg,Convertidor
+14/9/2022,Comida,7.608695652,Efectivo,Asia Food,Magdeburg,Comida China
+14/9/2023,Comida,13.04347826,Efectivo,Pizza,Magdeburg,Pizza con Leslee
+14/9/2024,Comida,20.65217391,Tarjeta,Aldi,Berlin,Comida Basica
+14/9/2025,Comida,9.782608696,Efectivo,Döner Place,Berlin,Cena
+14/9/2026,Comida,27.17391304,Tarjeta,Aldi,Berlin,Comida para Cena
+14/9/2027,Extra,4.347826087,Efectivo,Bar,Berlin,Cerveza
+14/9/2028,Comida,5.97826087,Efectivo,Turkish Place,Berlin,Currywurst
+14/9/2029,Comida,6.52173913,Efectivo,Aldi,Berlin,Pagar a Johannes
+14/9/2030,Extra,10.86956522,Efectivo,Antro Latino,Berlin,Entrada
+14/9/2031,Comida,6.52173913,Efectivo,Turkish Place,Berlin,Donner
+14/9/2032,Comida,3.260869565,Efectivo,Supermarket,Berlin,Beer
+14/9/2033,Extra,3.260869565,Efectivo,Antro Latino,Berlin,Vestimenta
+14/9/2034,Transporte,3.043478261,Tarjeta,DB,Berlin,Transporte a casa
+14/9/2035,Comida,4.891304348,Efectivo,Bonanza,Berlin,Caffee
+14/9/2036,Comida,4.239130435,Efectivo,Rossman,Berlin,Jugo + Desodorante
+14/9/2037,Extra,7.608695652,Efectivo,Tourist Store,Berlin,Parte del Muro
+14/9/2038,Comida,6.52173913,Efectivo,Mustafa Dooner,Berlin,Donner
+14/9/2039,Comida,6.52173913,Efectivo,Shwarma,Berlin,Comida
+14/9/2040,Comida,4.347826087,Efectivo,Aldi,Berlin,Comida la semana pasada
+14/9/2041,Comida,2.608695652,Efectivo,Caffe Luzia,Berlin,Caffee
+14/9/2019,Transporte,7.608695652,Efectivo,DB,Berlin,Tren a Aeropuerto
+14/9/2019,Comida,4.347826087,Efectivo,Bar,Berlin,Cerveza
+14/9/2019,Comida,3.152173913,Tarjeta,Airport store,Berlin,Bifi
+14/9/2019,Comida,13.04347826,Tarjeta,Aldi,Berlin,Comida para la semana
+15/9/2019,Transporte,15.2173913,Tarjeta,Nationalexpress,London,Autobus
+15/9/2019,Extra,10.86956522,Efectivo,Exchange,London,Lost Money in Exchange
+15/9/2019,Transporte,10.86956522,Efectivo,London Metro,London,Oyster Card
+15/9/2019,Comida,8.695652174,Efectivo,Bobbalicius,London,Bobba
+15/9/2019,Extra,27.17391304,Efectivo,Pub,London,Cerveza
+15/9/2019,Comida,9.239130435,Tarjeta,Burger King,London,Hamburgesa
+15/9/2019,Transporte,3.804347826,Efectivo,DB,Berlin,Airport to Apartment
+15/9/2019,Transporte,7.608695652,Tarjeta,DB,Berlin,Transporte a futball
+15/9/2019,Comida,5.97826087,Efectivo,Hasi Baba,Berlin,Donner
+16/9/2019,Comida,31.52173913,Tarjeta,Multiples,Berlin,Comida + Regalo para Johanes
+17/9/2019,Comida,4.347826087,Tarjeta,McDonalds,Berlin,Hamburgesa
+17/9/2019,Extra,8.695652174,Efectivo,Exchange,Berlin,Perdida en Cambio
+17/9/2019,Comida,9.782608696,Efectivo,Hasi Baba,Berlin,Donner + Currywurst para mi y Leslee
+18/9/2019,Comida,9.782608696,Efectivo,Comida,Malaga,Sandwich con Leslee
+18/9/2019,Comida,5.217391304,Efectivo,Starbucks,Malaga,Coffee
+20/09/2019,Comida,5.217391304,Efectivo,Starbucks,Malaga,Coffee
+20/09/2019,Comida,10.86956522,Efectivo,Extra,Malaga,Sandwich
+21/09/2019,Comida,9.782608696,Efectivo,Burger King,Malaga,Hamburgesa
+21/09/2019,Extra,8.695652174,Efectivo,EasyJet,Malaga,Costo de Maleta
+22/9/2019,Comida,4.130434783,Efectivo,Milsch & Zucker,Berlin,Caffee
+22/9/2019,Comida,4.347826087,Efectivo,Hasi Baba,Berlin,Dönner
+23/9/2019,Comida,15.2173913,Efectivo,Aldi,Berlin,Comida para la semana
+23/9/2019,Extra,6.52173913,Efectivo,Dennis Bio,Berlin,Vino para Kira
+24/9/2019,Comida,3.043478261,Efectivo,Milsch & Zucker,Berlin,Caffee
+25/9/2019,Transporte,6.52173913,Efectivo,DB,Berlin,Transporte a Aeropuerto
+25/9/2019,Comida,5.434782609,Efectivo,Milsch & Zucker,Berlin,Caffee y Muffin
+26/9/2019,Comida,3.47826087,Efectivo,Milsch & Zucker,Berlin,Caffee
+28/9/2019,Comida,3.47826087,Efectivo,Milsch & Zucker,Berlin,Caffee
+29/9/2019,Comida,11.95652174,Efectivo,Indian Place,Berlin,Comida
+29/9/2019,Comida,3.47826087,Efectivo,Milsch & Zucker,Berlin,Caffee
+30/9/2019,Comida,25.44565217,Efectivo,Aldi,Berlin,Comida + 15 del telefono
+30/9/2019,Extra,3.804347826,Efectivo,Kevin,Berlin,Lavar Ropa
+30/9/2019,Extra,5.434782609,Efectivo,Johannes,Berlin,Comida + Utensilios de Departamento
+43475,Comida,3.47826087,Efectivo,Milsch & Zucker,Berlin,Caffee
+43506,Comida,8.47826087,Efectivo,Hasi Baba,Berlin,Dooner
+43506,Comida,8.695652174,Efectivo,Aldi,Berlin,Comida para la semana
+43534,Comida,11.41304348,Efectivo,Ramen Place,Berlin,Ramen
+43534,Comida,3.47826087,Efectivo,Ramen Place,Berlin,Sake
+43534,Transporte,6.086956522,Efectivo,DB,Berlin,Transporte a el restaurante de Ramen
+43565,Comida,3.47826087,Efectivo,Luzia,Berlin,Caffe
+43595,Comida,22.82608696,Efectivo,Burger Place,Berlin,Food with Kira
+43626,Comida,11.95652174,Efectivo,Dooner Place,Berlin,Food
+43626,Comida,3.47826087,Efectivo,Milsch & Zucker,Berlin,Caffe
+43687,Comida,10.86956522,Efectivo,"""Mexican Place""",Berlin,Caffe
+43687,Comida,3.804347826,Efectivo,Luzia,Berlin,Caffe
+43748,Comida,5.652173913,Efectivo,Starbucks,Berlin,Caffe
+43748,Comida,4.347826087,Efectivo,Dooner Place,Berlin,Dooner
+13/10/2019,Extra,3.407378467,Efectivo,Rock Club,Praga,Entrada - Menos 2 de Bianca
+13/10/2019,Comida,11.53466912,Efectivo,Cena con amigos,Praga,Cena
+13/10/2019,Extra,7.209168202,Efectivo,Mezcal,Praga,Mezcal
+14/10/2019,Comida,31.52173913,Efectivo,Aldi,Berlin,Comida para la semana
+15/10/2019,Comida,3.804347826,Efectivo,Milsch & Zucket,Berlin,Caffee
+16/10/2019,Comida,10.86956522,Efectivo,McDonalds,Berlin,Burger
+18/10/2019,Comida,8.695652174,Efectivo,Hasi Baba,Berlin,Pizza
+18/10/2019,Transporte,2.934782609,Efectivo,DB,Berlin,Transporte
+18/10/2019,Comida,11.95652174,Efectivo,Caffe,Berlin,Caffe
+22/10/2019,Comida,9.782608696,Efectivo,Edeka,Berlin,Comida para la semana
+22/10/2019,Extra,0,Efectivo,Johannes,Berlin,Comida en Praga - Menos 10 de Bianca
+23/10/2019,Comida,4.347826087,Efectivo,McDonalds,Berlin,Caffe
+23/10/2019,Comida,4.347826087,Efectivo,Dooner Place,Berlin,Dooner
+23/10/2019,Extra,13.04347826,Efectivo,ReiseBank,Berlin,Transcacion
+24/10/2019,Comida,32.60869565,Efectivo,Ramen Place,Berlin,Ramen con Ewout
+24/10/2019,Extra,0,Efectivo,Bianca,Berlin,"Me pago 12, se lo quito a algo de Praga"
+25/10/2019,Extra,16.30434783,Efectivo,Free Tour,Berlin,Fueron 20 - 5 ewout
+25/10/2019,Comida,7.608695652,Efectivo,Currywurst,Berlin,Currywurst
+25/10/2019,Transporte,4.891304348,Efectivo,DB,Berlin,Transporte Publico
+25/10/2019,Comida,11.95652174,Tarjeta,Vapiano,Berlin,Comida con Ewout
+26/10/2019,Comida,7.608695652,Efectivo,Waffle Place,Berlin,Waffle
+26/10/2019,Transporte,5.108695652,Efectivo,DB,Berlin,Transporte
+26/10/2019,Transporte,1.847826087,Efectivo,DB,Berlin,Transporte
+26/10/2019,Comida,11.95652174,Efectivo,Vegan Place,Berlin,Hamburgesa
+26/10/2019,Extra,5.434782609,Efectivo,Ewout,Berlin,Dinero a Ewout para autobus
+28/10/2019,Comida,22.82608696,Tarjeta,Aldi,Berlin,Comida para la semana
+30/10/2019,Extra,7.608695652,Efectivo,Haus Mister,Berlin,Moneda
+43476,Comida,17.39130435,Tarjeta,Angry Chicken,Berlin,Pollo con Kira
+43535,Transporte,5.434782609,Tarjeta,DB,Berlin,Transporte
+43535,Comida,8.695652174,Efectivo,McDonalds,Berlin,Comida con Leslee
+43566,Comida,37.16304348,Efectivo,Edeka,Berlin,Comida para las Semanas
+43657,Extra,163.0434783,Efectivo,Embajada Argentina,Berlin,Pago para la visa
+43657,Transporte,5.434782609,Efectivo,DB,Berlin,Transporte
+43657,Extra,78.26086957,Tarjeta,Airbnb,Berlin,Pago para Airbnb
+43749,Extra,16.30434783,Efectivo,Spati,Berlin,Alchol
+43780,Comida,21.73913043,Tarjeta,Aldi,Berlin,Comida para la semana
+43810,Comida,6.52173913,Efectivo,Hasi Baba,Berlin,Dennis
+13/11/2019,Comida,4.347826087,Efectivo,Dooner Place,Berlin,Comida
+13/11/2019,Extra,7.608695652,Efectivo,Banco,Berlin,Costo Por Transacion
+16/11/2019,Comida,10.32608696,Tarjeta,Pizza,Berlin,Pizza
+16/11/2019,Comida,18.36956522,Tarjeta,Angry Chicken,Berlin,Pollo con Kira
+17/11/2019,Extra,7.608695652,Efectivo,Spati,Berlin,Cerveza
+20/11/2019,Extra,14.13043478,Efectivo,Edeka,Berlin,Cerveza
+21/11/2019,Comida,7.608695652,Efectivo,Milsch & Zucker,Berlin,Comida con Zane
+27/11/2019,Transporte,4.347826087,Tarjeta,DB,Berlin,Transporte a Hackathon
+29/11/2019,Extra,48.91304348,Efectivo,ATM,Budapest,Dinero por si acaso
+29/11/2019,Extra,39.27173913,Efectivo,Kira,Budapest,Differencia de Pagos
+29/11/2019,Extra,10.86956522,Efectivo,Habana,Berlin,Antro para mi y Taha
+29/11/2020,Extra,11.95652174,Efectivo,Spati,Berlin,Berliner Luft
+29/11/2021,Comida,19.56521739,Efectivo,Aldi,Berlin,Comida
+29/11/2022,Comida,5.434782609,Efectivo,Dooner Place,Berlin,Comida
+29/11/2023,Extra,16.30434783,Efectivo,Barber Shop,Berlin,Corte de Cabello
+29/11/2024,Comida,19.56521739,Tarjeta,Five Guys,Berlin,Cena
+29/11/2025,Extra,22.82608696,Tarjeta,Berlin Bears,Berlin,Pucks the Regalo
+29/11/2026,Extra,86.95652174,Tarjeta,Intersport,Berlin,Camisa de Football
+29/11/2027,Extra,38.04347826,Tarjeta,Amazon,Berlin,Ropa para la persona que me toco
+29/11/2028,Transporte,9.02173913,Tarjeta,FlexBus,Berlin,Autobus a Magdeburg
+29/11/2029,Comida,7.934782609,Tarjeta,Aldi,Berlin,Comida para la semana
+29/11/2030,Extra,8.695652174,Efectivo,Fiesta Latina,Magdeburg,Cerveza con Leslee
+29/11/2031,Comida,4.347826087,Efectivo,Mercado,Magdeburg,Mercado de Navidad: Comida
+29/11/2032,Comida,6.52173913,Efectivo,Mercado Navideño,Magdeburg,Comida
+29/11/2033,Comida,10.86956522,Efectivo,Comida China,Magdeburg,Comida con Leslee
+29/11/2034,Extra,15.2173913,Efectivo,Limpiar Ropa,Berlin,Limpiar Ropa
+29/11/2035,Comida,11.95652174,Tarjeta,Pizza,Berlin,Pizza
+29/11/2036,Extra,57.60869565,Tarjeta,Jewelery Store,Berlin,Regalo de Kira y Leslee
+29/11/2037,Comida,16.30434783,Efectivo,ZOLO,Berlin,Pizza con Kira
+29/11/2038,Extra,5.434782609,Efectivo,ATM,Berlin,Transaction
+13/12/2019,Comida,1.413043478,Efectivo,Metro,Berlin,Pan en el metro
+15/12/2019,Extra,11.95652174,Efectivo,Edeka,Berlin,Papas + Cervezas para fiesta
+11/1/2020,Transporte,9.1,Efectivo,Transportes Leon,Buenos Aires,Transporte de Aeropuerto
+12/1/2020,Comida,11.74,Efectivo,Comida con Kira,Buenos Aires,Comida con Kira
+12/1/2020,Comida,10.27,Efectivo,Tiendita,Buenos Aires,Comida para la semana
+14/1/2020,Comida,4.4,Efectivo,La Cigale,Buenos Aires,Comida en Bar
+14/1/2020,Extra,1.47,Efectivo,La Cigale,Buenos Aires,Entrada al quiz
+14/1/2020,Comida,10.86,Efectivo,1895 Posada,Buenos Aires,Comida con Johannes y Kevin
+14/1/2020,Comida,7.34,Efectivo,Tiendita,Buenos Aires,Frutas y Verduras
+14/1/2020,Extra,10.42,Efectivo,I Love Gifts,Buenos Aires,Campanita
+16/1/2020,Comida,9.24,Efectivo,Korean Restaurant,Buenos Aires,Bukkogi
+16/1/2020,Extra,4.55,Efectivo,I Love Gifts,Buenos Aires,Adaptador
+17/1/2020,Comida,8.8,Efectivo,Tiendita,Buenos Aires,Comida que la pesan
+17/1/2020,Comida,2.79,Efectivo,Negro,Buenos Aires,Caffe
+19/1/2020,Comida,30.81,Efectivo,Parilla,Panimar,"Parrial para Abi, Tara, Bani y Dennis"
+19/1/2020,Comida,4.4,Efectivo,Day Store,Buenos Aires,Comida para la semana
+21/1/2020,Comida,1.17,Efectivo,Kentucky,Buenos Aires,Empandas con Coca
+21/1/2020,Extra,1.47,Efectivo,Farmacias,Buenos Aires,Corta Uñas
+23/1/2020,Comida,10.27,Efectivo,Pago a Johannes,Buenos Aires,Comida + Filtro de Agua
+23/1/2020,Comida,3.67,Efectivo,Pago a Mau,Buenos Aires,Comida
+23/1/2020,Comida,5.87,Efectivo,Green Eat,Buenos Aires,Comida Vegana
+24/1/2020,Extra,35.21,Efectivo,Paid Abi,Buenos Aires,Paid Abi
+25/1/2020,Comida,3.23,Efectivo,Kentucky,Buenos Aires,Pizza con Coca
+25/1/2020,Extra,2.93,Efectivo,Free Walking Tours,Buenos Aires,Tour de la ciudad
+26/1/2020,Comida,15.65,Efectivo,Disco,Buenos Aires,Comida para la semana
+28/1/2020,Comida,7.775821596,Efectivo,Tiendita,Buenos Aires,Frutas y Verduras
+31/1/2020,Extra,2.64084507,Efectivo,Fernet,Buenos Aires,Jugo en Bar
+1/2/2020,Extra,5.134976526,Efectivo,Copa de Mate,Tigre,Vaso para mate
+1/2/2020,Comida,5.134976526,Efectivo,Cafe Belinda,Tigre,Huevo
+1/2/2020,Extra,19.80633803,Tarjeta,Parque de Diversiones,Tigre,Entrada
+1/2/2020,Comida,5.134976526,Tarjeta,Saigong,Buenos Aires,Pho
+2/2/2020,Extra,19.80633803,Tarjeta,Club de Golf,Buenos Aires,Golf Con Mau y Palos
+2/2/2020,Comida,11.00352113,Tarjeta,Comida China,Buenos Aires,Comida China + Agua
+2/2/2020,Extra,1.46713615,Tarjeta,Uber,Buenos Aires,Transporte
+3/2/2020,Comida,26.4084507,Tarjeta,Disco,Buenos Aires,Comida para la semana
+6/2/2020,Comida,4.401408451,Efectivo,Tostado,Buenos Aires,Sandwich con Limonada
+6/2/2020,Extra,4.401408451,Tarjeta,Claro,Buenos Aires,Recarga de Cellular
+7/2/2020,Comida,5.868544601,Efectivo,Saigong,Buenos Aires,Curry
+7/2/2020,Comida,1.46713615,Efectivo,CCP,Buenos Aires,Cerveza
+7/2/2020,Transporte,1.46713615,Efectivo,Transporte a la recidencia,Buenos Aires,Autobus
+9/2/2020,Extra,4.841549296,Efectivo,Paintball,Buenos Aires,Paintball
+9/2/2020,Extra,6.161971831,Efectivo,Football,Buenos Aires,Football
+9/2/2020,Comida,4.401408451,Efectivo,KFC,Buenos Aires,Comida
+10/2/2020,Extra,3.227699531,Efectivo,Lavanderia,Buenos Aires,Ropa
+11/2/2020,Transporte,4.401408451,Tarjeta,Uber,Buenos Aires,Transport
+11/2/2020,Transporte,3.667840376,Tarjeta,Uber,Buenos Aires,Transporte
+11/2/2020,Extra,6.161971831,Efectivo,Farmacias,Buenos Aires,Medicina para el etomago
+11/2/2020,Comida,2.64084507,Efectivo,Dubby,Buenos Aires,Comida
+13/2/2020,Transporte,1.46713615,Efectivo,Transporte a Patagonia,Buenos Aires,Transporte
+13/2/2020,Comida,8.802816901,Efectivo,Korean Place,Buenos Aires,Korean Food
+18/2/2020,Extra,3.521126761,Tarjeta,Lavanderia,Buenos Aires,Lavar mi Ropa
+18/2/2020,Comida,34.08157277,Tarjeta,Disco,Buenos Aires,Comida para la semana
+21/2/2020,Comida,2.34741784,Efectivo,Trippin,Buenos Aires,Cafe
+23/2/2020,Extra,7.775821596,Efectivo,Saigong,Buenos Aires,Comida
+23/2/2020,Extra,9.536384977,Efectivo,Cristi,Buenos Aires,Pago para fiesta
+23/2/2020,Extra,6.161971831,Efectivo,Football,Buenos Aires,Football
+24/2/2020,Transporte,1.46713615,Efectivo,Añadir a tarjeta,Buenos Aires,Añadir a tarjeta sube
+24/2/2020,Comida,14.6713615,Tarjeta,Pizza,Buenos Aires,Comida con Kira
+26/2/2020,Extra,7.042253521,Tarjeta,Lavanderia,Buenos Aires,Limpiar Ropa
+28/2/2020,Transporte,8.802816901,Tarjeta,Uber,Buenos Aires,Uber a Unilver
+29/2/2020,Extra,7.922535211,Tarjeta,Peluqueria,Buenos Aires,Corte de Pelo
+1/3/2020,Extra,17.6056338,Efectivo,"Bianca, Kira, Anya y Wes",Buenos Aires,Pagar lo que debo
+1/3/2020,Extra,144.9530516,Tarjeta,Abi,Bariloche,Pagar lo que debo a Abi
+2/2/2020,Extra,13.01349765,Tarjeta,Carrefour,Buenos Aires,Rastrillos para Razurar
+3/3/2020,Extra,51.34976526,Efectivo,Tienda de reparacion,Buenos Aires,Pago para reparar el razurador de Johannes
+3/3/2020,Comida,7.335680751,Efectivo,Comida de la India,Buenos Aires,Comida
+6/3/2020,Extra,8.802816901,Efectivo,Lavanderia,Buenos Aires,Lavar mi Ropa
+6/3/2020,Extra,9.976525822,Tarjeta,Banco,Buenos Aires,Costo por sacar dinero
+6/3/2020,Comida,5.281690141,Efectivo,Dia,Buenos Aires,Comprar Comida
+8/3/2020,Comida,5.575117371,Efectivo,Shwarma,Buenos Aires,Cena
+8/3/2020,Comida,2.494131455,Efectivo,Cervezeria,Buenos Aires,Cerveza
+10/3/2020,Comida,7.335680751,Tarjeta,KFC,Buenos Aires,Pollo
+10/3/2020,Comida,3.169014085,Efectivo,Empanaderia,Buenos Aires,Empanadas
+11/3/2020,Comida,24.22241784,Tarjeta,Disco,Buenos Aires,Comida para la semana
+12/3/2020,Comida,21.12676056,Efectivo,Mr Ho,Buenos Aires,Comida con Kira
+12/3/2020,Extra,2.9342723,Tarjeta,Claro,Buenos Aires,Recarga de Cellular
+15/3/2020,Transporte,20.5399061,Tarjeta,Uber,Buenos Aires,Transporte de Aeropuerto
+18/3/2020,Transporte,11.7370892,Tarjeta,Uber,Buenos Aires,Transporte de Aeropuerto
+18/3/2020,Transporte,30.80985915,Efectivo,Taxi,Buenos Aires,Transporte de Aeropuerto
+18/3/2020,Transporte,1100.352113,Tarjeta,Vuelo a Mexico,Buenos Aires,Vuelo a Mexico
